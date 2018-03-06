@@ -1,2 +1,2 @@
 # go_aes_ecb
-support aes ecb
+Golang support for AES/ECB Encrypt/Decrypt
